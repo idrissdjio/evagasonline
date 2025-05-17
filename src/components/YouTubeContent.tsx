@@ -45,7 +45,7 @@ const videos = [
   {
     id: '5',
     title: 'How I Got My Visa Approved Under One Minute',
-    thumbnail: 'https://i.ytimg.com/vi/fEe5IRl3rNc/maxresdefault.jpg',
+    thumbnail: 'http://i3.ytimg.com/vi/fEe5IRl3rNc/hqdefault.jpg',
     duration: '7:45',
     category: 'Visa & Immigration',
     url: 'https://www.youtube.com/watch?v=fEe5IRl3rNc'
